@@ -116,6 +116,3 @@ If you encounter any issues or have questions:
 - [ ] Add custom model training
 - [ ] Support for multiple cameras
 - [ ] Export detection results
-
----
-Made with ❤️ by [Your Name] 
